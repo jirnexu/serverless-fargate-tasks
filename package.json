@@ -1,18 +1,13 @@
 {
-  "bugs": {
-    "url": ""
-  },
   "description": "Run and configure Fargate tasks from within your serverless project",
   "devDependencies": {},
-  "homepage": "",
   "license": "MIT",
   "main": "lib/index.js",
   "name": "serverless-fargate-tasks",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/svdgraaf/serverless-fargate-tasks.git"
+    "url": "git+https://github.com/jirnexu/serverless-fargate-tasks.git"
   },
-  "scripts": {
-  },
-  "version": "0.1.0"
+  "scripts": {},
+  "version": "1.0.0"
 }
